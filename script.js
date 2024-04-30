@@ -1,5 +1,5 @@
 //GET THE DATA
-import data from './starter-code/data.json' with {type : 'json'};
+import data from './data.json' with {type : 'json'};
 
 
 
